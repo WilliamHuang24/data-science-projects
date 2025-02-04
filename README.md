@@ -1,6 +1,6 @@
-This repository contains a collection of various data science projects developed using Python. Each project demonstrates practical applications of data science techniques and algorithms, including data cleaning, data visualization and statistical analysis.
+# Data Science Projects
 
----
+This repository contains a collection of various data science projects developed using Python. Each project demonstrates practical applications of data science techniques and algorithms, including data cleaning, data visualization and statistical analysis.
 
 ## Exploratory Data Analysis
 In this project, we perform an in-depth analysis of a given dataset. The goal is to understand the data’s structure, detect patterns, identify outliers, and visualize the key characteristics.
@@ -10,16 +10,12 @@ In this project, we perform an in-depth analysis of a given dataset. The goal is
 - Descriptive statistics
 - Data visualization using Matplotlib
 
----
-
 ## Data Visualization
 This project focuses on building interactive data visualization
 
 ### Key Features:
 - Creating interactive graphs
 - Data filtering and modification
-
----
 
 ## Web Scraper for News Collection
 
